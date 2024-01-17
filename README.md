@@ -7,7 +7,7 @@ Aproveite!
 <p align="center">
   <a href="https://sites.google.com/view/lorttynk/home"> <img src="https://github.com/LorttyNK/LorttyNK/blob/main/img/LNKsimple%20logo.png?raw=true" width='125px'/>
 </p>
-### README ORIGINAL DO yt-dlp:
+## README ORIGINAL DO yt-dlp:
 <!-- MANPAGE: BEGIN EXCLUDED SECTION -->
 <div align="center">
 
