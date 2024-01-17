@@ -1,3 +1,13 @@
+# yt-dlp .bat
+yt-dlp Gui (.bat) foi criado!
+Para usuários menos experientes, criei uma versão em .bat onde o usuário pode baixar seus arquivos sem menores problemas e complicações.
+Aproveite!
+
+## Visite LNK Home
+<p align="center">
+  <a href="https://sites.google.com/view/lorttynk/home"> <img src="https://github.com/LorttyNK/LorttyNK/blob/main/img/LNKsimple%20logo.png?raw=true" width='125px'/>
+</p>
+### README ORIGINAL DO yt-dlp:
 <!-- MANPAGE: BEGIN EXCLUDED SECTION -->
 <div align="center">
 
