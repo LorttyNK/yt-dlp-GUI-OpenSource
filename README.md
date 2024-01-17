@@ -9,8 +9,7 @@ Aproveite!
 ## Visite LNK Home
 <p align="center">
   <a href="https://sites.google.com/view/lorttynk/home"> <img src="https://github.com/LorttyNK/LorttyNK/blob/main/img/LNKsimple%20logo.png?raw=true" width='125px'/>
-</p>
-## README ORIGINAL DO yt-dlp:
+  </p> <br>
 <!-- MANPAGE: BEGIN EXCLUDED SECTION -->
 <div align="center">
 
