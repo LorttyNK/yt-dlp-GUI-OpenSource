@@ -1,10 +1,10 @@
 # yt-dlp .bat
-yt-dlp Gui (.bat) foi criado!
-Para usuários menos experientes, criei uma versão em .bat onde o usuário pode baixar seus arquivos sem menores problemas e complicações.
-
-Faça o donwload dele aqui
-<a herf="https://github.com/LorttyNK/yt-dlp-GUI-OpenSource/releases">yt-dlp (.bat) by LorttyNK </a>
-Aproveite!
+yt-dlp Gui (.bat) foi criado<br>
+Para usuários menos experientes, criei uma versão em .bat onde o usuário pode baixar seus arquivos sem menores problemas e complicações. <br>
+<br>
+Faça o donwload dele aqui: <br>
+<a herf="https://github.com/LorttyNK/yt-dlp-GUI-OpenSource/releases">yt-dlp (.bat) by LorttyNK</a> <br>
+Aproveite! <br>
 
 ## Visite LNK Home
 <p align="center">
