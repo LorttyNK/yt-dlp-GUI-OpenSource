@@ -2,6 +2,7 @@
 yt-dlp Gui (.bat) foi criado<br>
 Para usuários menos experientes, criei uma versão em .bat onde o usuário pode baixar seus arquivos sem menores problemas e complicações. <br>
 <br>
+<img src="https://media.discordapp.net/attachments/818946367242109011/1355585741559828624/image.png?ex=67e9771a&is=67e8259a&hm=33e1fb0fe43c2ba57efd777b0cb36e123e6ac1c96dab12864f90c470d92b168d&=&format=webp&quality=lossless&width=1077&height=563">
 Faça o donwload dele aqui: <br>
 <a href="https://github.com/LorttyNK/yt-dlp-GUI-OpenSource/releases">yt-dlp (.bat) by LorttyNK</a> <br>
 Aproveite! 
